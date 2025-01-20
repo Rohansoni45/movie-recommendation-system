@@ -5,6 +5,12 @@ A **content-based movie recommendation system** built using **Python**, **Pandas
 The system uses the **TMDb dataset** for movie information and metadata.
 
 ---
+## Live Demo
+You can try out the Movie Recommendation System by visiting the live link below:
+
+[Live Demo](https://movie-recommendation-sy.onrender.com)
+
+---
 
 ## Features ✨
 - Input the name of a movie, and the system suggests **5 similar movies**.
@@ -46,7 +52,3 @@ The project uses the [**TMDb (The Movie Database)**](https://www.themoviedb.org/
    - Given an input movie title, the system fetches the 5 most similar movies based on cosine similarity.
 
 ---
-## Live Demo
-You can try out the Movie Recommendation System by visiting the live link below:
-
-[Live Demo](https://movie-recommendation-sy.onrender.com)
